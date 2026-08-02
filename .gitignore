@@ -1,0 +1,6 @@
+.env
+.venv/
+.pytest_cache/
+chroma_db/
+data/live/
+__pycache__/
