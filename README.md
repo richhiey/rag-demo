@@ -15,7 +15,7 @@ The pipeline is:
 ## Run the live demo
 
 ```bash
-cd rag-lesson/demo
+cd rag-demo
 python -m venv .venv
 source .venv/bin/activate
 pip install -e .
