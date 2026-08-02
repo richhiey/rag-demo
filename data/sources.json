@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "schwarzwald-home",
+    "title": "Willkommen im Nationalpark Schwarzwald",
+    "url": "https://www.nationalpark-schwarzwald.de/"
+  },
+  {
+    "source_id": "schwarzwald-closures",
+    "title": "Wegesperrungen im Nationalpark Schwarzwald",
+    "url": "https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/wegesperrungen"
+  },
+  {
+    "source_id": "schwarzwald-accessibility",
+    "title": "Barrierefrei unterwegs im Nationalpark Schwarzwald",
+    "url": "https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/barrierefrei-unterwegs"
+  },
+  {
+    "source_id": "schwarzwald-easy-tours",
+    "title": "Touren leicht im Nationalpark Schwarzwald",
+    "url": "https://www.nationalpark-schwarzwald.de/erleben/unterwegs-im-park/barrierefrei-unterwegs/touren-leicht"
+  },
+  {
+    "source_id": "schwarzwald-tickets",
+    "title": "Tickets und Öffnungszeiten des Nationalparkzentrums",
+    "url": "https://www.nationalpark-schwarzwald.de/erleben/nationalparkzentrum/tickets-1"
+  },
+  {
+    "source_id": "schwarzwald-arrival",
+    "title": "Anreise und Kontakt",
+    "url": "https://www.nationalpark-schwarzwald.de/anreise-kontakt"
+  },
+  {
+    "source_id": "schwarzwald-public-transport",
+    "title": "Anreise mit dem ÖPNV",
+    "url": "https://www.nationalpark-schwarzwald.de/anreise-kontakt/anreise-mit-dem-oepnv"
+  }
+]
